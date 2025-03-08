@@ -30,7 +30,7 @@ npm run build
 
 # App主体
 有两个组件和一个按钮切换主题
-![[./img/Pasted image 20250308224017.png]]
+![Alt Text](img/7e9345e67672de86f646affda2d687a.png)
 # Text
 通过动态渲染一个js对象在主页里
 通过Date这个内置对象获取时间
@@ -82,4 +82,4 @@ requestAnimationFrame(rotate);
 
 这里多提一嘴，如果用间隔器的话因为事件机制会导致有个先后顺序以前以后，比如先更新文字，再转到指针，导致效果不好
 最终效果如下
-![[./img/e0cbc9e41a981b7f0cd27fdeb02b942.png]]
+![Alt Text](img/e0cbc9e41a981b7f0cd27fdeb02b942.png)
